@@ -11,4 +11,3 @@ public class LeapYear  {
         System.out.println(checker.isLeapYear(2032));
     }
 }
-
