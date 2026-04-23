@@ -19,6 +19,3 @@ public class A_byte_converter {
         convertBytes(123456789);
     }
 }
-
-
-
