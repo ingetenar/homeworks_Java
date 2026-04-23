@@ -9,6 +9,6 @@ public class LeapYear  {
 
     public static void main(String[] args) {
         LeapYear checker = new LeapYear();
-        System.out.println(checker.isLeapYear(2032));
+        System.out.println(checker.isLeapYear(2026));
     }
 }
