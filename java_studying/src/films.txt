@@ -1,0 +1,5 @@
+Castle in the Sky;Hayao Miyazaki;Isao Takahata;1986;124
+Grave of the Fireflies;Isao Takahata;Toru Hara;1988;89
+My Neighbor Totoro;Hayao Miyazaki;Hayao Miyazaki;1988;86
+Kiki's Delivery Service;Hayao Miyazaki;Hayao Miyazaki;1989;102
+Only Yesterday;Isao Takahata;Toshio Suzuki;1991;118
