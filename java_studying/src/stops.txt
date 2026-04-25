@@ -1,0 +1,6 @@
+1,Lemmiku,Otepää vald,58.0523,26.4961
+2,Jägala jõgi,Jõelähtme vald,59.4489,25.1792
+3,Laguja,Nõo vald,58.2756,26.5153
+4,Pahuvere,Viljandi vald,58.3632,25.5812
+5,Kabala tee,Rakvere vald,59.3465,26.3556
+6,Metsaääre,Surju vald,58.1512,24.5432
