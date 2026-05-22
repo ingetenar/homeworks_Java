@@ -1,3 +1,3 @@
 # Java Homeworks
 
-This repository contains my Java homework tasks from university.
+This repository contains my Java homework tasks.
